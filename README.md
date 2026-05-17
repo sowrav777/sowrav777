@@ -35,7 +35,7 @@ This GitHub serves as a resource hub for:
 - **Website**: [thedatacollection.com](https://thedatacollection.com)
 - **Fiverr**: [fiverr.com/sowrav777](https://www.fiverr.com/sowrav777) - Level 2 Seller
 - **LinkedIn**: [in/sowrav777](https://www.linkedin.com/in/sowrav777/)
-- **Email**: Available on my website
+- **Email**: sowrav@thedatacollection.com
 
 ### 📈 Current Focus
 
